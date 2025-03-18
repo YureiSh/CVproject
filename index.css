@@ -1,0 +1,38 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    font-weight: 200;
+
+}
+hr{
+    padding-right: 250px;
+}
+h2 {
+    color: blue;
+    margin-bottom: 2px; /* Tiny space */
+    font-size: 125%;
+}
+ul{
+    margin-left: -15px;
+}
+li{
+    margin-top: 2px;
+}
+p {
+    margin-top: 2px;
+}
+h3{
+    color: green;
+}
+.outerbox {
+    border: 2px solid black;  /* Four lines (top, right, bottom, left) */
+    padding: 20px;            /* Space inside the box */
+    width: 95%;             /* Adjust width */
+    margin: 15px auto;        /* Center the box */
+    text-align:left;       /* Center the text */
+}
+
+.margin-container{
+    margin-left: 30px;
+    width: 75%;
+}
